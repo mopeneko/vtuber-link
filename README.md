@@ -1,9 +1,6 @@
-# react-ts-withrt
+# vtuber-link
 
-- React
-- TypeScript
-- react-router-dom(auto generate)
-- Parcel
+linkcore の動画配信サイト版(VTuber特化)
 
 ## Building and running on localhost
 
